@@ -11,6 +11,7 @@
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	<link rel="alternate" type="application/rss+xml" title="Doovava Blog &raquo; Feed" href="https://doovavablog.github.io/data/feed/">
 <link rel="alternate" type="application/rss+xml" title="Doovava Blog &raquo; Comments Feed" href="https://doovavablog.github.io/data/comments/feed/">
+<meta name="google-site-verification" content="ob5qbyR11TG8iQpi4KK456wdqNxN131RMBsVF3eaLUA" />
 <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/doovavablog.github.io\/data\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
 /*! This file is auto-generated */
